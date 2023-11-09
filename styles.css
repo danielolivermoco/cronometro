@@ -17,6 +17,7 @@
     color: #175cff;
 }
 
+
 .timer {
     display: flex;
     font-size: 55px;
@@ -70,3 +71,4 @@
 #pauseBtn, #resumeBtn {
     display: none;
 }
+
